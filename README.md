@@ -2,13 +2,19 @@
 
 Hello world! This is my first edit. Over the past couple years I have been struggling to find a suitable career. I started learned JAVA syntax this year in 2020 and wish to pursue a career in programming!
 
-Here is a little timeline I have set for myself updated as of December 28th, 2020:
+Here is a little timeline I have set for myself updated as of Jan 3th, 2021:
 
 - By Febuary 1st I will be finished the HEAD FIRST and HTML and CSS book
+  -learn positioning
+  -alignment (flexbox and CSS grid)
+  -Transitions and animations
+  -Responsive design/media queries
 - Build simple projects with what I have learned (Static webpages = brochure for my favourite resturant Uncle Willies!)
 
+Resources: https://www.youtube.com/watch?v=VfGW0Qiy2I0
 Then I will:
-
+- Learn sass
+- Learn Tailwind CSS for everything /jackra for react (frameworks for CSS)
 - Finish the HEAD FIRST JAVASCRIPT book.
 - Register for TeamTreeHouse web deve bootcamp?
 - Build a Pomodoro Timer similar to https://pomofocus.io/
