@@ -1,4 +1,9 @@
-# hello-world
+# hello-world V2. April 4ith 2023.
+
+I am almost finished the associates program at Langara. I have 4 more courses to complete. The plan now is to continue working on my wind direction web app. I am pretty proud to be so close to finishing an associates. Whats next for me is to continue my studies at SFU. 
+
+
+# hello-world V1
 
 Hello world! This is my first edit. Over the past couple years I have been struggling to find a suitable career. I started learned JAVA syntax this year in 2020 and wish to pursue a career in programming!
 
